@@ -46,7 +46,7 @@ def ALEX():
     if opt == '1':
         main()
     if None == '2':
-        os.system('xdg-open https://www.facebook.com/Termux.User.Tera.Next.Daddy)
+        os.system('xdg-open https://www.facebook.com/Termux.User.Tera.Next.Daddy')
         return None
     if None == '3':
         os.system('xdg-open https://github.com/ALAMIN-XD89')
