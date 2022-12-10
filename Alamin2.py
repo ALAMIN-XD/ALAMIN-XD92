@@ -52,7 +52,7 @@ def ALEX():
         os.system('xdg-open https://github.com/ALAMIN-XD89')
         return None
     if None == '4':
-        os.system('xdg-open https://youtube.com/@BDFOLLOWBAZAR)
+        os.system('xdg-open https://youtube.com/@BDFOLLOWBAZAR')
     if None == '0':
         os.system('exit')
         return None
